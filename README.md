@@ -1,15 +1,8 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# 5. Hafta React 1. Ders Ödevi
 
-# Homework 
-```Ödev```
+## 📝 İsterler
 
+- Reduce ile isimlerin baş harfine göre gruplandırma
+- Yaşadıkları şehirlere göre gruplandırma 
 
-## Homework Description
-
-```Ödev Açıklaması ```
-
-
-## Author
-
-```Ödevi yapan```
+## 👩‍💻 Büşra Akay
